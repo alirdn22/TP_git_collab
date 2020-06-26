@@ -20,8 +20,8 @@
 }
  
 #main_content {
-	float: red;
-	background: #f0f0f0;
+	float: right;
+	background: red;
 	margin: 10px 5px 10px 0;
 	width: 620px;
 	height: 630px;
